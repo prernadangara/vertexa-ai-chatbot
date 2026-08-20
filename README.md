@@ -26,7 +26,6 @@
 - [Implementation](#implementation)
 - [Testing & Results](#testing--results)
 - [Screenshots](#screenshots)
-- [Project Documentation](#project-documentation)
 - [Limitations](#limitations)
 - [Future Scope](#future-scope)
 
@@ -293,14 +292,6 @@ These results were observed during the project's testing phase using the Vertex 
 ### Final Vertexa Interface
 
 ![Vertexa Chatbot](screenshots/09-vertexa-final-interface.png)
-
----
-
-## Project Documentation
-
-The complete academic project report is included in this repository.
-
-[View the Project Report](Building%20a%20Customised%20LLM%20Chatbot%20Using%20Vertex%20AI%20Agent%20Builder%20%281%29.pdf)
 
 ---
 
